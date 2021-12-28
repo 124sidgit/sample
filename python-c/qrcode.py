@@ -9,4 +9,4 @@ data="Name=Sid\nDOB=00/00/0000\nCountry=Globe"
 img=qrcode.make(data)
 
 #And here it is save in the address given by us
-img.save("C:/Users/sis-s/Desktop")
+img.save("C:/Users/sis-s/Desktop/etc.png")
